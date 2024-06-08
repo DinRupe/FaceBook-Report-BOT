@@ -1,9 +1,7 @@
 # FaceBook-Report-BOT
 
- Telegram: 👉  https://t.me/FaceBookReportbott
- <br>
- Video: https://t.me/FaceBookReportbott
- <br>
-▔▔▔▔▔▔╲▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+ Telegram: https://t.me/FaceBookReportbott
+<hr>
+<img src="https://i.ibb.co/P6WVcQR/facebook-photo-rep.jpg" alt="Trulli" width="400" height="400">
 
-<img src="https://i.postimg.cc/K8jh53jY/facebook-photo-rep.jpg" alt="Trulli" width="450" height="450">
+# FaceBook Report TOOL
